@@ -1,4 +1,4 @@
-# Kumar Madhurendra Portfolio
+# Amartya Kaushik Portfolio
 
 This is a personal portfolio website for Kumar Madhurendra.
 
