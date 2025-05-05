@@ -1,6 +1,6 @@
 # Amartya Kaushik Portfolio
 
-This is a personal portfolio website for Kumar Madhurendra.
+This is a personal portfolio website for Amartya Kaushik.
 
 ## Contact Form Setup
 
